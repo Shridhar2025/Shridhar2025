@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shridhar2025
+- 👋 Hi, I’m @Shridhar_Avinash
 - 👀 I’m interested in "DATA SCIENCE, MACHINE LEARNING" and eager to work across multiple domains.
 - 🌱 I’m currently learning "Natural language processing and moving on to deep learning and Neural networks."
 - 💞️ I’m looking to collaborate on any project related to my field of interest or any other project granting me an opportunity to explore other domains.
